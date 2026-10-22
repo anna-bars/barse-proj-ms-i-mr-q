@@ -75,7 +75,7 @@ const CHARACTERS = {
     name: 'Mr Q',
     file: 'mr_q.riv',
     sm: 'Mr Q Controller',
-    eyebrowInput: 'Eyebrows_State',
+    eyebrowInput: 'EyebrowState',
     visemeLayer: 'Visemes',
     riveUrl: '/api/rive?c=mr_q',
     visemes: visemeList('Viseme_01_Closed_M_B_P'),
